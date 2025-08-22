@@ -1,8 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* Ensure Hubot Sans is the primary font globally */
-body {
-  font-family: 'Hubot Sans', sans-serif;
-}
